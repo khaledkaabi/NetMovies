@@ -6,6 +6,8 @@
 npm install
 ```
 
+## Create .env file copy from dev.env
+
 ### Compile and Hot-Reload for Development
 
 ```sh
@@ -16,10 +18,4 @@ npm run dev
 
 ```sh
 npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
